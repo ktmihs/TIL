@@ -14,4 +14,17 @@
 0. git status	(현재 상태 확인)
 
 
+## clone
 
+1. github에서 repo 생성
+	checked README.md file
+2. clone 할 dir로 이동
+3. git clone git-addr
+4. ~~ 내용 변경 ~~
+5. git add filename
+6. git commit
+	message 작성
+7. git push origin branchname
+	clone으로 받았을 때, 기본 remotename==origin
+
+0. git status	(현재 상태 확인)
